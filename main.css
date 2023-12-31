@@ -1,0 +1,14 @@
+.img-1{
+  width: 50rem;
+  height: 50rem;
+  display:block;
+  margin:auto;
+  clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);
+  /* transform:translate(-50%, -50%); */
+}
+
+.owais{
+  width: 320;
+  height: 240;
+ 
+}
